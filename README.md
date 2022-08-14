@@ -1,5 +1,6 @@
 # GDG_Calculator
 参加谷歌开发者公众号Compose进阶挑战活动的 demo。
+[APK 地址](https://github.com/strivecheng/GDG_Calculator/tree/master/apk)
 
 ## 目前已完成：
  - [x] 浅色深色主题切换
